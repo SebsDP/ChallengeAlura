@@ -17,7 +17,7 @@ Este proyecto es una aplicación simple que permite a los usuarios ingresar nomb
 ## Instalación y Ejecución
 1. Clonar el repositorio:
    ```sh
-   git clone https://github.com/usuario/amigo-secreto.git
+   git clone https://github.com/SebsDP/ChallengeAlura
    ```
 2. Navegar al directorio del proyecto:
    ```sh
